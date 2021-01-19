@@ -1,0 +1,217 @@
+2-Y-O, Otitis Media, Features
+3-Y-O, Immunizations, Indications
+6-M-O, Urinary Tract Infection, Diagnostic Testing
+Abnormal Growth due to Overconsumption of Milk, Prevention
+Acrocyanosis, Workup in Neonate
+Acute Lymphoblastic Leukemia, Presentation
+Acute Pharyngitis, Complications, Prevention
+ADHD, Diagnostic Testing
+Amphetamine Toxicity, Identification
+Androgen Insensitivity, Presentation
+Anticholinergic Toxicity, Identification
+APGAR Score, Fetal Evaluation
+Asthma, Complication, Management
+Asthma, Pathophysiology
+Asthma, Pharmacologic Management
+Atrioventricular Cushion Defect, Identification
+Avascular Necrosis of Femoral Head, Identification
+Bacterial Sepsis, Management in 3-Y-O
+Bells Palsy due to Lyme Disease, Lab Studies
+Bordetella pertussis Infection, Presentation
+Botulism, Scientific Understanding of Mechanisms
+Breath-Holding Spells, Management
+Bronchiolitis, Diagnosis
+Bronchiolitis, Presentation
+Cannabis Use Disorder, Identification
+Caput Succedaneum, Identification
+Carbon Monoxide Poisoning, Diagnostic Testing
+Cardiac Failure, Volume Overload, Presentation
+Celiac Disease, Diagnostic Testing
+Celiac Disease, Presentation
+Cephalohematoma, Diagnosis
+Childhood Leukemia, Diagnostic Testing
+Chlamydial Pneumonitis, Presentation
+Circumstance to administer vaccination
+Coarctation of the Aorta, Diagnostic Testing
+Congenital Adrenal Hyperplasia, Lab Studies
+Congenital Adrenal Hyperplasia, Management
+Congenital Diaphragmatic Hernia, Neonate, Presentation
+Congenital Glaucoma, Features
+Congenital Hypothyroidism, Identification
+Congenital Hypothyroidism, Presentation
+Constitutional Growth Delay, Presentation in 12-Y-O Male
+Coronary Artery Aneurysm, Kawasaki Disease, Presentation
+Cough, Management
+Craniosynostosis, Presentation
+Crohn Disease, Presentation
+Cyanotic Congenital Heart Disease, Diagnosis
+Cyanotic Episodes, Scientific Understanding Of Mechanisms
+Cyclic Vomiting, Presentation
+Cystic Fibrosis, Diagnostic Testing
+Cystic Fibrosis, Presentation
+Depression, Presentation
+Developmental Dysplasia, Hip Evaluation
+Developmental Milestones, Diagnostic Testing
+Developmental Milestones, Screening
+Diabetes Insipidus due to CMV, Identification
+Diabetes Mellitus, Risk Factors in PCOS
+Diabetic Ketoacidosis, Presentation
+DiGeorge Syndrome, Presentation
+Disseminated Intravascular Coagulation, Management
+Down Syndrome, Risk Factors, Identification
+Erosive Gastritis, Presentation
+Erythema Multiforme, Presentation
+Erythema Toxicum, Identification
+Facial Nerve Palsy, Lyme Disease, Diagnostic Testing
+Febrile Seizure, Management in 18-M-O
+Febrile Seizure, Management
+Feeding Difficulties, Management
+Fever, Etiology
+Foreign Body Aspiration, Management
+Foreign Body Aspiration, Presentation
+Fractured Clavicle due to Birth Trauma, Identification
+Fragile X Syndrome, Presentation
+Functional Abdominal Pain, Findings
+Functional Abdominal Pain, Identification
+Functional Constipation With Overflow Incontinence, Management
+GBS Newborn, Scientific Understanding of Mechanisms
+Germ Cell Tumor, Risk Reduction
+Glomerulonephritis, Identification
+Glucose-6-Phosphate Dehydrogenase Deficiency, Presentation
+Graves Disease, Initial Pharmacologic Management
+Group A Streptococcal Infection, Management
+Growth Plate Injuries, Identification
+Guillain-Barré Syndrome, Cerebrospinal Fluid Findings
+Guillain-Barré Syndrome, Presentation
+Hematuria, Diagnostic Testing
+Hemolytic Uremic Syndrome, Presentation
+Hemophilia, Presentation
+Henoch-Schönlein Purpura, Pharmacologic Management
+Henoch-Schönlein Purpura, Presentation W/Renal Disease
+Henoch-Schönlein Purpura, Underlying Cause
+Hepatitis A Vaccination, Indications in Immunocompromised Patient
+Herpetic Gingivostomatitis, Presentation
+Hirschsprung Disease, as Option W/Constipation
+Hyaline Membrane Disease, Diagnostic Testing
+Hyaline Membrane Disease, Presentation
+Hydrocele, Identification
+Hypertension in 4-Y-O, Etiology
+Idiopathic Thrombocytopenic Purpura, Diagnostic Testing
+Idiopathic Thrombocytopenic Purpura, Presentation
+IgA Nephropathy, Presentation
+Infant Exposed to Mother W/Hepatitis B, Diagnostic Testing
+Infantile Polycystic Kidney, Presentation
+Injury Prevention, Recommendations
+Iron Deficiency Anemia, Lab Studies
+Iron Deficiency Anemia, Screening
+Juvenile Rheumatoid Arthritis, Pharmacologic Management
+Kawasaki Disease, Diagnostic Testing
+Kawasaki Disease, Features
+Kawasaki Disease, Findings
+Kawasaki Disease, Pharmacologic Management
+Kawasaki Disease, Physical Findings
+Ligament Injury, Diagnostic Screening
+Lower Extremity Edema, Diagnostic Testing
+Malaria, Diagnostic Testing
+Malaria, Prevention
+Marfan Syndrome, Presentation Management
+Marfan Syndrome, Scientific Understanding of Mechanisms
+Mastoiditis due to Streptococcus Pneumoniae, Diagnostic Testing
+McCune-Albright Syndrome, Diagnosis
+Measles Exposure, Vaccination Indication
+Mesenteric Adenitis, Differential Diagnosis of Abdominal Pain
+Migraine, Pharmacologic Management
+Milk Protein Allergy, Infant, Presentation
+Minimal Change Disease, Presentation
+Mitral Valve Prolapse in 14-Y-O, Diagnostic Testing
+Muscular Dystrophy, Diagnostic Testing
+Muscular Torticollis, Features
+Nasal Foreign Body, Presentation in 3-Y-O
+Necrotizing Enterocolitis, Abdominal Radiographic Finding
+Neonatal Chlamydia, Pharmacologic Management
+Neonatal Conjunctivitis-Chlamydia, Pharmacologic Management
+Neonatal Herpes Simplex Infections, Management
+Neonatal HSV
+Neonatal Respiratory Distress, Management
+Neurocutaneous Syndrome, Inheritance Pattern
+Night Terrors, Management
+Normal Puberty, Identification
+Obesity, Complications
+Ophthalmic Infection in Child, Initial Management
+Orbital Blowout Fracture, Diplopia, Identification
+Orthostatic Proteinuria, Lab Studies, Diagnostic Testing
+Otitis Externa, Pharmacologic Management
+Otitis Media, Indication For Surgery
+Papular Rash, Etiology
+Patent Ductus Arteriosus, Presentation
+Petechiae and Purpura, Nephropathy, Identification
+Pneumothorax in 17-Y-O Male, Etiology Determination
+Positive PPD Skin Test, Asymptomatic, Management
+Postprandial Vomiting, Management
+Precocious Puberty, Workup
+Primary Amenorrhea, Identification
+Pseudotumor Cerebri, Presentation
+Psychogenic Cough, Presentation
+Pubertal Gynecomastia, Management
+Puberty, Features
+Pulmonary Embolism, Diagnostic Testing
+Reactive Lymphadenopathy, Presentation
+Rectal Bleeding, Diagnostic Testing
+Rectal Bleeding, Management, Indication for Surgery
+Respiratory Distress, Diagnostic Testing
+Retinoblastoma, Management
+Rett Syndrome, Identification
+Rheumatic Fever, Diagnostic Testing
+Rickets, Presentation, Prevention
+Rotavirus Vaccine, Contraindications
+Seborrheic Dermatitis, Management
+Seborrheic Dermatitis, Presentation
+Seizure Disorder, Features
+Seizure, Diagnostic Testing
+Septic Arthritis, Diagnostic Testing
+Septic Arthritis, Presentation
+Septic Joint, Diagnostic Testing
+Sexual Abuse in Child, Findings
+Short Stature, Diagnostic Testing
+Sore Throat W/Fever, Lab Studies
+Spinal Muscular Atrophy, Identification
+Stevens-Johnson Syndrome, Historical Findings
+Supravalvular Aortic Stenosis, Identification
+Supraventricular Tachycardia, 6-W-O, Pharmacologic Management
+Syncope, FBN1 Gene Mutation, Presentation
+Syndactyly Polydactyly, Diagnostic Testing
+Systemic Disease, Features
+Tension Headache, Identification
+Testicular Dysfunction, Management
+Tetralogy of Fallot, Presentation
+Tinea Capitis, Pharmacologic Management
+Tinea Versicolor, Treatment
+Todd Paralysis, Presentation
+Torch Syndrome W/Congenital Syphilis, Presentation
+Torsion of Appendix Testis, Pharmacologic Management
+Transient Synovitis, Identification, Management
+Transient Tachypnea of Newborn, Diagnosis
+Transient Tachypnea of Newborn, Presentation
+Transient Tachypnea, Identification
+Tuberous Sclerosis, Diagnosis
+Tuberous Sclerosis, Physical Findings
+Tuberous Sclerosis, Presentation
+Tumor Lysis Syndrome, Diagnostic Testing
+Turner Syndrome, Diagnosis
+Turner Syndrome, Etiology of Murmur
+Type 1 Neurofibromatosis, Presentation
+Ulcerative Colitis, Diagnostic Testing
+Urinary Tract Infection, Diagnostic Testing
+Urinary Tract Infection, Pharmacologic Management
+Vaccination for 11-Y-O after Liver Transplant
+Vaccination Recommendation for 18-M-O W/History of Febrile Seizure
+Vaccinations in Patient W/Egg Allergy, Indication
+Vaccines, Contraindications
+Vaccines, Recommendations
+Venous Hum, Diagnostic Testing
+Ventricular Septal Defect, Presentation
+Vitamin K Deficiency, Presentation in Neonate
+Vomiting, Diagnostic Testing
+West Nile Virus, Identification
+Wilms Tumor, Predisposing Factors, Screening
+Wiskott-Aldrich Syndrome, Identification

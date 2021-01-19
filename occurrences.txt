@@ -1,0 +1,217 @@
+6	Vaccines, Recommendations
+5	Congenital Hypothyroidism, Presentation
+4	Nasal Foreign Body, Presentation in 3-Y-O
+4	2-Y-O, Otitis Media, Features
+4	Acute Pharyngitis, Complications, Prevention
+4	Constitutional Growth Delay, Presentation in 12-Y-O Male
+4	Henoch-Schönlein Purpura, Presentation W/Renal Disease
+4	Congenital Diaphragmatic Hernia, Neonate, Presentation
+3	Testicular Dysfunction, Management
+3	Cyanotic Episodes, Scientific Understanding Of Mechanisms
+3	Fractured Clavicle due to Birth Trauma, Identification
+3	Rectal Bleeding, Management, Indication for Surgery
+3	Celiac Disease, Diagnostic Testing
+3	McCune-Albright Syndrome, Diagnosis
+3	Iron Deficiency Anemia, Lab Studies
+3	Rotavirus Vaccine, Contraindications
+3	Syncope, FBN1 Gene Mutation, Presentation
+3	Coronary Artery Aneurysm, Kawasaki Disease, Presentation
+3	Turner Syndrome, Diagnosis
+3	Asthma, Pharmacologic Management
+3	Vomiting, Diagnostic Testing
+3	Tuberous Sclerosis, Diagnosis
+3	Transient Tachypnea of Newborn, Diagnosis
+3	GBS Newborn, Scientific Understanding of Mechanisms
+3	Petechiae and Purpura, Nephropathy, Identification
+3	Hemophilia, Presentation
+3	Avascular Necrosis of Femoral Head, Identification
+3	Cystic Fibrosis, Presentation
+3	Acrocyanosis, Workup in Neonate
+3	Bronchiolitis, Diagnosis
+3	Childhood Leukemia, Diagnostic Testing
+3	Erythema Toxicum, Identification
+3	Hydrocele, Identification
+3	Kawasaki Disease, Findings
+3	Precocious Puberty, Workup
+3	ADHD, Diagnostic Testing
+3	Atrioventricular Cushion Defect, Identification
+3	Hepatitis A Vaccination, Indications in Immunocompromised Patient
+3	Hyaline Membrane Disease, Presentation
+3	Asthma, Pathophysiology
+3	Bordetella pertussis Infection, Presentation
+3	Spinal Muscular Atrophy, Identification
+3	Postprandial Vomiting, Management
+3	Congenital Adrenal Hyperplasia, Lab Studies
+3	Abnormal Growth due to Overconsumption of Milk, Prevention
+3	Septic Arthritis, Presentation
+3	Developmental Milestones, Diagnostic Testing
+3	Type 1 Neurofibromatosis, Presentation
+3	6-M-O, Urinary Tract Infection, Diagnostic Testing
+3	Seizure, Diagnostic Testing
+3	Developmental Milestones, Screening
+3	Tinea Capitis, Pharmacologic Management
+3	Asthma, Complication, Management
+3	Circumstance to administer vaccination
+3	Tuberous Sclerosis, Physical Findings
+3	Down Syndrome, Risk Factors, Identification
+2	Patent Ductus Arteriosus, Presentation
+2	Lower Extremity Edema, Diagnostic Testing
+2	Marfan Syndrome, Presentation Management
+2	Reactive Lymphadenopathy, Presentation
+2	Amphetamine Toxicity, Identification
+2	Night Terrors, Management
+2	Otitis Media, Indication For Surgery
+2	Functional Abdominal Pain, Identification
+2	Muscular Torticollis, Features
+2	Mesenteric Adenitis, Differential Diagnosis of Abdominal Pain
+2	Ulcerative Colitis, Diagnostic Testing
+2	Seborrheic Dermatitis, Management
+2	Craniosynostosis, Presentation
+2	Kawasaki Disease, Pharmacologic Management
+2	Sore Throat W/Fever, Lab Studies
+2	Fragile X Syndrome, Presentation
+2	Pneumothorax in 17-Y-O Male, Etiology Determination
+2	Neonatal Conjunctivitis-Chlamydia, Pharmacologic Management
+2	Vaccination Recommendation for 18-M-O W/History of Febrile Seizure
+2	Growth Plate Injuries, Identification
+2	Cannabis Use Disorder, Identification
+2	West Nile Virus, Identification
+2	Otitis Externa, Pharmacologic Management
+2	Androgen Insensitivity, Presentation
+2	Transient Synovitis, Identification, Management
+2	Neonatal Respiratory Distress, Management
+2	Urinary Tract Infection, Pharmacologic Management
+2	Juvenile Rheumatoid Arthritis, Pharmacologic Management
+2	Tetralogy of Fallot, Presentation
+2	Necrotizing Enterocolitis, Abdominal Radiographic Finding
+2	Functional Abdominal Pain, Findings
+2	Breath-Holding Spells, Management
+2	Tension Headache, Identification
+2	Hematuria, Diagnostic Testing
+2	Muscular Dystrophy, Diagnostic Testing
+2	Tumor Lysis Syndrome, Diagnostic Testing
+2	Rheumatic Fever, Diagnostic Testing
+2	Hypertension in 4-Y-O, Etiology
+2	Measles Exposure, Vaccination Indication
+2	Henoch-Schönlein Purpura, Pharmacologic Management
+2	Glucose-6-Phosphate Dehydrogenase Deficiency, Presentation
+2	Papular Rash, Etiology
+2	Rett Syndrome, Identification
+2	APGAR Score, Fetal Evaluation
+2	Kawasaki Disease, Physical Findings
+2	Infant Exposed to Mother W/Hepatitis B, Diagnostic Testing
+2	Henoch-Schönlein Purpura, Underlying Cause
+2	Depression, Presentation
+2	Hemolytic Uremic Syndrome, Presentation
+2	Chlamydial Pneumonitis, Presentation
+2	Rectal Bleeding, Diagnostic Testing
+2	Septic Joint, Diagnostic Testing
+2	Foreign Body Aspiration, Management
+2	Idiopathic Thrombocytopenic Purpura, Diagnostic Testing
+2	Stevens-Johnson Syndrome, Historical Findings
+2	Graves Disease, Initial Pharmacologic Management
+1	Malaria, Prevention
+1	Mitral Valve Prolapse in 14-Y-O, Diagnostic Testing
+1	Erythema Multiforme, Presentation
+1	Crohn Disease, Presentation
+1	Idiopathic Thrombocytopenic Purpura, Presentation
+1	Malaria, Diagnostic Testing
+1	Turner Syndrome, Etiology of Murmur
+1	3-Y-O, Immunizations, Indications
+1	Pubertal Gynecomastia, Management
+1	Injury Prevention, Recommendations
+1	Transient Tachypnea of Newborn, Presentation
+1	Wilms Tumor, Predisposing Factors, Screening
+1	Bells Palsy due to Lyme Disease, Lab Studies
+1	Diabetes Insipidus due to CMV, Identification
+1	Neurocutaneous Syndrome, Inheritance Pattern
+1	Cystic Fibrosis, Diagnostic Testing
+1	Primary Amenorrhea, Identification
+1	Neonatal HSV
+1	Infantile Polycystic Kidney, Presentation
+1	Ventricular Septal Defect, Presentation
+1	Congenital Hypothyroidism, Identification
+1	Marfan Syndrome, Scientific Understanding of Mechanisms
+1	Supraventricular Tachycardia, 6-W-O, Pharmacologic Management
+1	Anticholinergic Toxicity, Identification
+1	Bacterial Sepsis, Management in 3-Y-O
+1	Coarctation of the Aorta, Diagnostic Testing
+1	Developmental Dysplasia, Hip Evaluation
+1	Neonatal Chlamydia, Pharmacologic Management
+1	Hirschsprung Disease, as Option W/Constipation
+1	Todd Paralysis, Presentation
+1	Positive PPD Skin Test, Asymptomatic, Management
+1	Vaccines, Contraindications
+1	Wiskott-Aldrich Syndrome, Identification
+1	Hyaline Membrane Disease, Diagnostic Testing
+1	Mastoiditis due to Streptococcus Pneumoniae, Diagnostic Testing
+1	Febrile Seizure, Management
+1	Congenital Glaucoma, Features
+1	Psychogenic Cough, Presentation
+1	Obesity, Complications
+1	Germ Cell Tumor, Risk Reduction
+1	Foreign Body Aspiration, Presentation
+1	Functional Constipation With Overflow Incontinence, Management
+1	Supravalvular Aortic Stenosis, Identification
+1	Diabetic Ketoacidosis, Presentation
+1	Syndactyly Polydactyly, Diagnostic Testing
+1	Caput Succedaneum, Identification
+1	Orthostatic Proteinuria, Lab Studies, Diagnostic Testing
+1	Disseminated Intravascular Coagulation, Management
+1	Glomerulonephritis, Identification
+1	Guillain-Barré Syndrome, Cerebrospinal Fluid Findings
+1	Iron Deficiency Anemia, Screening
+1	Febrile Seizure, Management in 18-M-O
+1	Group A Streptococcal Infection, Management
+1	Transient Tachypnea, Identification
+1	Venous Hum, Diagnostic Testing
+1	Guillain-Barré Syndrome, Presentation
+1	Botulism, Scientific Understanding of Mechanisms
+1	Bronchiolitis, Presentation
+1	Cephalohematoma, Diagnosis
+1	Feeding Difficulties, Management
+1	Pulmonary Embolism, Diagnostic Testing
+1	Seizure Disorder, Features
+1	Septic Arthritis, Diagnostic Testing
+1	Seborrheic Dermatitis, Presentation
+1	Acute Lymphoblastic Leukemia, Presentation
+1	Retinoblastoma, Management
+1	Respiratory Distress, Diagnostic Testing
+1	Kawasaki Disease, Features
+1	Short Stature, Diagnostic Testing
+1	Urinary Tract Infection, Diagnostic Testing
+1	Vaccinations in Patient W/Egg Allergy, Indication
+1	Fever, Etiology
+1	Pseudotumor Cerebri, Presentation
+1	Carbon Monoxide Poisoning, Diagnostic Testing
+1	Puberty, Features
+1	Rickets, Presentation, Prevention
+1	Facial Nerve Palsy, Lyme Disease, Diagnostic Testing
+1	Kawasaki Disease, Diagnostic Testing
+1	Tuberous Sclerosis, Presentation
+1	Minimal Change Disease, Presentation
+1	Torch Syndrome W/Congenital Syphilis, Presentation
+1	Systemic Disease, Features
+1	Herpetic Gingivostomatitis, Presentation
+1	Congenital Adrenal Hyperplasia, Management
+1	Cyclic Vomiting, Presentation
+1	Sexual Abuse in Child, Findings
+1	Vaccination for 11-Y-O after Liver Transplant
+1	Normal Puberty, Identification
+1	Cyanotic Congenital Heart Disease, Diagnosis
+1	DiGeorge Syndrome, Presentation
+1	Orbital Blowout Fracture, Diplopia, Identification
+1	Tinea Versicolor, Treatment
+1	Ligament Injury, Diagnostic Screening
+1	Migraine, Pharmacologic Management
+1	Cough, Management
+1	Diabetes Mellitus, Risk Factors in PCOS
+1	Milk Protein Allergy, Infant, Presentation
+1	Erosive Gastritis, Presentation
+1	Ophthalmic Infection in Child, Initial Management
+1	Torsion of Appendix Testis, Pharmacologic Management
+1	Cardiac Failure, Volume Overload, Presentation
+1	Neonatal Herpes Simplex Infections, Management
+1	IgA Nephropathy, Presentation
+1	Vitamin K Deficiency, Presentation in Neonate
+1	Celiac Disease, Presentation
