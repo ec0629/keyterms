@@ -1,14 +1,18 @@
 const fs = require('fs');
 
-const content = fs.readFileSync('keyterms.txt').toString();
-const terms = content.split('\n');
+const terms = fs.readFileSync('keyterms.txt')
+    .toString()
+    .split('\n');
+    
 const map = new Map();
-terms.forEach((t) => {
-    const term = t.trim();
-    if (map.has(term)) {
-        map.set(term, map.get(term) + 1);
+terms.forEach((term) => {
+    const trimmed = term.trim();
+    mapValue = map.get(trimmed);
+    
+    if (mapValue) {
+        map.set(trimmed, mapValue + 1);
     } else {
-        map.set(term, 1);
+        map.set(trimmed, 1);
     }
 });
 const sortedByOccurrence = [...map]
@@ -20,8 +24,6 @@ const sortedAlphabetically = [...map]
     .sort((a, b) => a[0].localeCompare(b))
     .map((v) => v[0])
     .join('\n');
-
-
 
 fs.writeFileSync('alphabetical.txt', sortedAlphabetically);
 fs.writeFileSync('occurrences.txt', sortedByOccurrence);
